@@ -20,10 +20,9 @@
 
 
 <summary>
-  <h2> What I currently do </h2>
+  <h2> Welcome to my github backyard</h2>
 </summary>
 
-- Currently learn to master React
 - Feel free to browse around
 - Feel free to fork the repos
 
@@ -50,7 +49,7 @@
  <br>
  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/js.png" alt="JavaScript" height="25" />  
   
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
