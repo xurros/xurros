@@ -26,15 +26,22 @@
 <br />
 
 
-<summary>
-  <h2> Welcome to my github backyard</h2>
-</summary>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- Feel free to browse around
-- Feel free to fork the repos
-
-
-<summary>
+```javascript
+const salomy = {
+  pronouns: "she" | "her",
+  code: [HTML, CSS, Javascript],
+  tools: [React, Node, Express,  Storybook, Styled-Components, Jest, Docker],
+  database: [mongoDB],
+  favorites: {
+                        action: "sigh",
+                        food: "tea", "coffee", "ice-cream",
+                        items: "myLaptop",
+                      },
+ challenge: "I am learning to master challenges focused on react"
+}
+```
   <h2>
     <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> 
@@ -45,7 +52,6 @@
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="inline-block" />](https://www.linkedin.com/)
   
-  </summary>
 
 <br>
 
