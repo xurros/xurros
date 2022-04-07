@@ -66,7 +66,7 @@
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
   
-<img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/nodejs.png" alt="Node.js" height="25" />  
+<img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/nodejs.jpeg" alt="Node.js" height="25" />  
    
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /> 
