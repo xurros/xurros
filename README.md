@@ -48,7 +48,7 @@ const salomy = {
                 width="28" />  -->
   
    <img src="https://github.com/xurros/assets/blob/main/contact.png" align="center"
-                width="28" /> 
+                width="35" /> 
     To connect with me
   </h2>
 
