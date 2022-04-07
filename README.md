@@ -32,7 +32,7 @@
 const salomy = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Javascript],
-  tools: [React, Node, Express,  Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Node, Express, Jest],
   database: [mongoDB],
   favorites: {
                         action: "sigh",
