@@ -43,6 +43,8 @@ const salomy = {
  challenge: "I am learning to master challenges focused on react"
 }
 ```
+
+<p align="center">
   <h2>
 <!--     <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" />  -->
@@ -56,7 +58,7 @@ const salomy = {
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
   
-
+</p>
 <br>
 
 <p align="center" >
