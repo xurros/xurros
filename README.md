@@ -46,11 +46,12 @@ const salomy = {
   <h2>
 <!--     <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" />  -->
+  </h2>
   
-   <img src="https://github.com/xurros/assets/blob/main/contact.png" align="center"
+  
+ <img src="https://github.com/xurros/assets/blob/main/contact.png" align="center"
                 width="55" /> 
      
-  </h2>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="inline-block" />](https://twitter.com/) 
   
