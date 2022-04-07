@@ -41,8 +41,9 @@ const salomy = {
                         food: "tea", "coffee", "ice-cream",
                         items: "myLaptop",
                       },
- challenge: "I am learning to master challenges focused on react"
-}
+ challenge: "I am learning to master challenges focused on react",
+ words: "thank you for visiting",
+};
 ```
 
 <p align="center">
