@@ -32,8 +32,9 @@
 ```javascript
 const salomy = {
   pronouns: "she" | "her",
-  code: [HTML, CSS, Javascript],
-  tools: [React, Node, Express, Jest],
+  codes: [HTML, CSS, Javascript],
+  frameworks: [React, Bootstrap, Express],
+  testing-tools: [Jest],
   database: [mongoDB],
   favorites: {
                         action: "sigh",
