@@ -50,9 +50,9 @@
  
 <div align="center">  
 
-<img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/html.png" alt="HTML5" height="25" /> 
+<img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/html.png" alt="HTML5" height="30" /> 
   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />  
 
 
 <img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/js.png" alt="JavaScript" height="25" />  
