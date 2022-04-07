@@ -12,7 +12,7 @@
   <br />
   I specialize in Web-Development, focusing on MERN stack.
   <br /> 
-  I love coffee, tea, art, music, and movies
+  autre chose?
   <br />
 </p>
 
@@ -57,16 +57,16 @@
 
 <img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/js.png" alt="JavaScript" height="25" />  
   
-  
+  <img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/express.png" alt="Express" height="25" />  
+ 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-  
-  
+ 
   
 <img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/mongodb.png" alt="MongoDB" height="25" />  
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
+<img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/nodejs.png" alt="Node.js" height="25" />  
    
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /> 
