@@ -19,14 +19,14 @@
   <br />
   I specialize in Web-Development, focusing on MERN stack.
   <br /> 
-  autre chose?
+  
   <br />
 </p>
 
 <br />
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> autre chose? 
 
 
 ```javascript
