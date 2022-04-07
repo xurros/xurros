@@ -50,12 +50,11 @@ const salomy = {
   
   
  <img src="https://github.com/xurros/assets/blob/main/contact.png" align="center"
-                width="55" /> 
+                width="65" /> 
      
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="inline-block" />](https://twitter.com/) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) 
   
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="inline-block" />](https://www.linkedin.com/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
   
 
 <br>
