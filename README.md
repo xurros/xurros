@@ -62,7 +62,7 @@
   
   
   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
+<img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/mongodb.png" alt="MongoDB" height="25" />  
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
   
