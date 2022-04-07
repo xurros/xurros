@@ -23,11 +23,10 @@
   <h2> What I currently do </h2>
 </summary>
 
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React and Javascript.
-- 👯 I’m looking to collaborate on Frontend-Web and Flutter projects.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Front-end Web Development, Any tech-related stuff.
+- Currently learn to master React
+- Feel free to browse around
+- Feel free to fork the repos
+
 
 <summary>
   <h2>
@@ -36,14 +35,10 @@
     To connect with me
   </h2>
 
-
-<p align = "center">
-
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="inline-block" />](https://twitter.com/) 
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="inline-block" />](https://www.linkedin.com/)
   
-</p>
   </summary>
 
 <br>
