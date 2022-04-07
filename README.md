@@ -34,7 +34,7 @@ const salomy = {
   pronouns: "she" | "her",
   codes: [HTML, CSS, Javascript],
   frameworks: [React, Bootstrap, Express],
-  testing-tools: [Jest],
+  testingTools: [Jest],
   database: [mongoDB],
   favorites: {
                         action: "sigh",
