@@ -68,6 +68,8 @@
   
 <img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/node.png" alt="Node.js" height="30" />  
    
+<img style="margin: 10px" src="https://github.com/xurros/assets/blob/main/pwa.png" alt="PWA" height="30" />  
+
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" /> 
   
