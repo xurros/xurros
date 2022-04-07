@@ -50,7 +50,7 @@ const salomy = {
                 width="28" />  -->
  
   
- <img src="https://github.com/xurros/assets/blob/main/contact.png" align="center"
+ <img src="https://github.com/xurros/assets/blob/main/contact.png" 
                 width="95" /> 
      
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) 
