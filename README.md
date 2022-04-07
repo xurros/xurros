@@ -48,8 +48,8 @@ const salomy = {
                 width="28" />  -->
   
    <img src="https://github.com/xurros/assets/blob/main/contact.png" align="center"
-                width="35" /> 
-    To connect with me
+                width="55" /> 
+     
   </h2>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="inline-block" />](https://twitter.com/) 
